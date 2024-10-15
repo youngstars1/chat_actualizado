@@ -4,8 +4,10 @@ y soy la asesora virtual de *GEPSERVICES*.
 
 ¿En qué puedo asistirte hoy?
 
-
 *1-Trámites*
 *2-¿Hablas [Kreyòl]?*
 *3-Agendar en nuestro Sitio web*
 *0- Si desea salir de este menú*
+
+Nuestro horario de atención es de lunes a viernes, de 9:00 a.m. a 5:00 p.m.,
+ y los sábados de 09:00 a.m. a 3:00 p.m. Los domingos y festivos permanecemos cerrados.
