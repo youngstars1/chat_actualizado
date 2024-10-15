@@ -1,0 +1,268 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56920444783@s.whatsapp.net',
+    fromMe: false,
+    id: '3FE0F02DD4955999682F',
+    participant: undefined
+  },
+  messageTimestamp: 1729007151,
+  pushName: 'Youngstars-tecnology',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Youngstars-tecnology',
+  body: 'menu',
+  from: '56920444783'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03b519c6-37de-445b-befc-18f8e0f2184c',
+  keyword: 'key_0709bd52-993d-43c4-a357-47bfd3bd407d',
+  answer: '¡Hola! 👋 Bienvenido/a a nuestro chat. Soy Ana👩, \r\n' +
+    'y soy la asesora virtual de *GEPSERVICES*. \r\n' +
+    '😊 Estoy aquí para ayudarte.\r\n' +
+    '\r\n' +
+    '¿En qué puedo asistirte hoy?\r\n' +
+    '\r\n' +
+    '\r\n' +
+    '*1-Trámites*\r\n' +
+    '*2-¿Hablas [Kreyòl]?*\r\n' +
+    '*3-Agendar en nuestro Sitio web*\r\n' +
+    '*0- Si desea salir de este menú*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3d73dacf5a26553cc1c7139d0873cf1c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56920444783@s.whatsapp.net',
+    fromMe: false,
+    id: '3F4CA1DB922365BE5D86',
+    participant: undefined
+  },
+  messageTimestamp: 1729007158,
+  pushName: 'Youngstars-tecnology',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Youngstars-tecnology',
+  body: '2',
+  from: '56920444783'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56920444783@s.whatsapp.net',
+    fromMe: false,
+    id: '3F3C83586BFB93ADD8EF',
+    participant: undefined
+  },
+  messageTimestamp: 1729007173,
+  pushName: 'Youngstars-tecnology',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'jjjj', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Youngstars-tecnology',
+  body: 'jjjj',
+  from: '56920444783'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1a40cb19-1da2-44d5-8b97-e166d9c19809',
+  keyword: 'ans_ad9e7422-7901-4c51-8dc9-d0f07a1ede71',
+  answer: 'Ki non ou?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ccd516d6498822d08b513dbd0db881bb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56920444783@s.whatsapp.net',
+    fromMe: false,
+    id: '3F84DCB86C8F39DFB9A2',
+    participant: undefined
+  },
+  messageTimestamp: 1729007183,
+  pushName: 'Youngstars-tecnology',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'jjnjnj', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Youngstars-tecnology',
+  body: 'jjnjnj',
+  from: '56920444783'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_49d52a74-1978-4424-95f9-b9fb7ac12680',
+  keyword: 'ans_1a40cb19-1da2-44d5-8b97-e166d9c19809',
+  answer: 'ki Rut ou?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7a730d2fdb69d9181974982a097763b0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56920444783@s.whatsapp.net',
+    fromMe: false,
+    id: '3F5EC964764AFCD93A08',
+    participant: undefined
+  },
+  messageTimestamp: 1729007192,
+  pushName: 'Youngstars-tecnology',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'xxxxxxx-x',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Youngstars-tecnology',
+  body: 'xxxxxxx-x',
+  from: '56920444783'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f2924ada-3d94-4f00-b816-6054885fffc8',
+  keyword: 'ans_49d52a74-1978-4424-95f9-b9fb7ac12680',
+  answer: 'ki imèl ou?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '328f7a58d9345aa1e06a783403852693'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56920444783@s.whatsapp.net',
+    fromMe: false,
+    id: '3F65749D2AF69C2F7CA8',
+    participant: undefined
+  },
+  messageTimestamp: 1729007207,
+  pushName: 'Youngstars-tecnology',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '@@@', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Youngstars-tecnology',
+  body: '@@@',
+  from: '56920444783'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cb00a7bc-e5df-414a-b2e4-6f62aef56312',
+  keyword: 'ans_f2924ada-3d94-4f00-b816-6054885fffc8',
+  answer: 'Enfòmasyon ou se ⬇ ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b566a92d3c30342e9c9148e0002f7164'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a87d3454-74ee-4870-9a63-119b830801d0',
+  keyword: 'ans_cb00a7bc-e5df-414a-b2e4-6f62aef56312',
+  answer: ' mèsi 😊, yon ajan ap kontakte ou pi vit posib.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '89855c7bc604a4aa963710dd4fa9e582'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56920444783@s.whatsapp.net',
+    fromMe: false,
+    id: '3F7213EA697A4019B2CC',
+    participant: undefined
+  },
+  messageTimestamp: 1729007218,
+  pushName: 'Youngstars-tecnology',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'mèsi', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Youngstars-tecnology',
+  body: 'mèsi',
+  from: '56920444783'
+}
